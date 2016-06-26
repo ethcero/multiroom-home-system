@@ -1,3 +1,3 @@
-# multiroom-home-system
+# Multiroom home system
 
 In process
